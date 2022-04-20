@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'BPGAlgeti';
+  src: url('BPGAlgeti.eot');
+  src: url('BPGAlgeti.eot?#iefix') format('embedded-opentype'),
+       url('BPGAlgeti.svg#BPGAlgeti') format('svg'),
+       url('BPGAlgeti.ttf') format('truetype'),
+       url('BPGAlgeti.woff') format('woff'),
+       url('BPGAlgeti.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
